@@ -1,0 +1,544 @@
+2013-03-26 16:57:05,267 ERROR com.hipu.render.entity.MainRender:131 - can not use cache dir.
+2013-03-26 16:57:42,242 ERROR com.hipu.render.entity.MainRender:131 - can not use cache dir.
+2013-03-26 17:12:27,116 ERROR com.hipu.render.service.RenderService:43 - 
+java.io.FileNotFoundException: http://localhost:8081/render/?url=http://sports.sohu.com/20120930/n354238173.shtml
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at com.hipu.render.test.HttpRequest.sendGetRequest(HttpRequest.java:30)
+	at com.hipu.render.test.HttpRequestThread.run(HttpRequestThread.java:35)
+	at java.lang.Thread.run(Unknown Source)
+2013-03-26 17:12:27,116 ERROR com.hipu.render.service.RenderService:43 - 
+java.io.FileNotFoundException: http://localhost:8081/render/?url=http://sports.sohu.com/20120930/n354238189.shtml
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at com.hipu.render.test.HttpRequest.sendGetRequest(HttpRequest.java:30)
+	at com.hipu.render.test.HttpRequestThread.run(HttpRequestThread.java:35)
+	at java.lang.Thread.run(Unknown Source)
+2013-03-26 17:12:27,121 ERROR com.hipu.render.service.RenderService:43 - 
+java.io.FileNotFoundException: http://localhost:8081/render/?url=http://sports.sohu.com/20120930/n354237940.shtml
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at com.hipu.render.test.HttpRequest.sendGetRequest(HttpRequest.java:30)
+	at com.hipu.render.test.HttpRequestThread.run(HttpRequestThread.java:35)
+	at java.lang.Thread.run(Unknown Source)
+2013-03-26 17:12:27,122 ERROR com.hipu.render.service.RenderService:43 - 
+java.io.FileNotFoundException: http://localhost:8081/render/?url=http://sports.sohu.com/20120930/n354238083.shtml
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at com.hipu.render.test.HttpRequest.sendGetRequest(HttpRequest.java:30)
+	at com.hipu.render.test.HttpRequestThread.run(HttpRequestThread.java:35)
+	at java.lang.Thread.run(Unknown Source)
+2013-03-26 17:12:27,122 ERROR com.hipu.render.service.RenderService:43 - 
+java.io.FileNotFoundException: http://localhost:8081/render/?url=http://sports.sohu.com/20120930/n354238177.shtml
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at com.hipu.render.test.HttpRequest.sendGetRequest(HttpRequest.java:30)
+	at com.hipu.render.test.HttpRequestThread.run(HttpRequestThread.java:35)
+	at java.lang.Thread.run(Unknown Source)
+2013-03-26 17:12:27,124 ERROR com.hipu.render.service.RenderService:43 - 
+java.io.FileNotFoundException: http://localhost:8081/render/?url=http://sports.sohu.com/20120930/n354238081.shtml
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at com.hipu.render.test.HttpRequest.sendGetRequest(HttpRequest.java:30)
+	at com.hipu.render.test.HttpRequestThread.run(HttpRequestThread.java:35)
+	at java.lang.Thread.run(Unknown Source)
+2013-03-26 17:12:27,125 ERROR com.hipu.render.service.RenderService:43 - 
+java.io.FileNotFoundException: http://localhost:8081/render/?url=http://sports.sohu.com/20120930/n354238086.shtml
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at com.hipu.render.test.HttpRequest.sendGetRequest(HttpRequest.java:30)
+	at com.hipu.render.test.HttpRequestThread.run(HttpRequestThread.java:35)
+	at java.lang.Thread.run(Unknown Source)
+2013-03-26 17:12:27,125 ERROR com.hipu.render.service.RenderService:43 - 
+java.io.FileNotFoundException: http://localhost:8081/render/?url=http://sports.sohu.com/20120930/n354238094.shtml
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at com.hipu.render.test.HttpRequest.sendGetRequest(HttpRequest.java:30)
+	at com.hipu.render.test.HttpRequestThread.run(HttpRequestThread.java:35)
+	at java.lang.Thread.run(Unknown Source)
+2013-03-26 17:12:27,126 ERROR com.hipu.render.service.RenderService:43 - 
+java.io.FileNotFoundException: http://localhost:8081/render/?url=http://sports.sohu.com/20120930/n354238091.shtml
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at com.hipu.render.test.HttpRequest.sendGetRequest(HttpRequest.java:30)
+	at com.hipu.render.test.HttpRequestThread.run(HttpRequestThread.java:35)
+	at java.lang.Thread.run(Unknown Source)
+2013-03-26 17:12:27,126 ERROR com.hipu.render.service.RenderService:43 - 
+java.io.FileNotFoundException: http://localhost:8081/render/?url=http://sports.sohu.com/20120930/n354237968.shtml
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at com.hipu.render.test.HttpRequest.sendGetRequest(HttpRequest.java:30)
+	at com.hipu.render.test.HttpRequestThread.run(HttpRequestThread.java:35)
+	at java.lang.Thread.run(Unknown Source)
+2013-03-26 17:12:27,127 ERROR com.hipu.render.service.RenderService:43 - 
+java.io.FileNotFoundException: http://localhost:8081/render/?url=http://sports.sohu.com/20120930/n354238259.shtml
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at com.hipu.render.test.HttpRequest.sendGetRequest(HttpRequest.java:30)
+	at com.hipu.render.test.HttpRequestThread.run(HttpRequestThread.java:35)
+	at java.lang.Thread.run(Unknown Source)
+2013-03-26 17:12:27,128 ERROR com.hipu.render.service.RenderService:43 - 
+java.io.FileNotFoundException: http://localhost:8081/render/?url=http://sports.sohu.com/20120930/n354238187.shtml
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at com.hipu.render.test.HttpRequest.sendGetRequest(HttpRequest.java:30)
+	at com.hipu.render.test.HttpRequestThread.run(HttpRequestThread.java:35)
+	at java.lang.Thread.run(Unknown Source)
+2013-03-26 17:12:27,129 ERROR com.hipu.render.service.RenderService:43 - 
+java.io.FileNotFoundException: http://localhost:8081/render/?url=http://sports.sohu.com/20120930/n354237946.shtml
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at com.hipu.render.test.HttpRequest.sendGetRequest(HttpRequest.java:30)
+	at com.hipu.render.test.HttpRequestThread.run(HttpRequestThread.java:35)
+	at java.lang.Thread.run(Unknown Source)
+2013-03-26 17:12:27,129 ERROR com.hipu.render.service.RenderService:43 - 
+java.io.FileNotFoundException: http://localhost:8081/render/?url=http://sports.sohu.com/20120930/n354238257.shtml
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at com.hipu.render.test.HttpRequest.sendGetRequest(HttpRequest.java:30)
+	at com.hipu.render.test.HttpRequestThread.run(HttpRequestThread.java:35)
+	at java.lang.Thread.run(Unknown Source)
+2013-03-26 17:12:27,129 ERROR com.hipu.render.service.RenderService:43 - 
+java.io.FileNotFoundException: http://localhost:8081/render/?url=http://sports.sohu.com/20120930/n354238182.shtml
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at com.hipu.render.test.HttpRequest.sendGetRequest(HttpRequest.java:30)
+	at com.hipu.render.test.HttpRequestThread.run(HttpRequestThread.java:35)
+	at java.lang.Thread.run(Unknown Source)
+2013-03-26 17:12:27,130 ERROR com.hipu.render.service.RenderService:43 - 
+java.io.FileNotFoundException: http://localhost:8081/render/?url=http://sports.sohu.com/20120930/n354238089.shtml
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at com.hipu.render.test.HttpRequest.sendGetRequest(HttpRequest.java:30)
+	at com.hipu.render.test.HttpRequestThread.run(HttpRequestThread.java:35)
+	at java.lang.Thread.run(Unknown Source)
+2013-03-26 17:12:27,131 ERROR com.hipu.render.service.RenderService:43 - 
+java.io.FileNotFoundException: http://localhost:8081/render/?url=http://sports.sohu.com/20120930/n354238180.shtml
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at com.hipu.render.test.HttpRequest.sendGetRequest(HttpRequest.java:30)
+	at com.hipu.render.test.HttpRequestThread.run(HttpRequestThread.java:35)
+	at java.lang.Thread.run(Unknown Source)
+2013-03-26 17:12:27,131 ERROR com.hipu.render.service.RenderService:43 - 
+java.io.FileNotFoundException: http://localhost:8081/render/?url=http://sports.sohu.com/20120930/n354238192.shtml
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at com.hipu.render.test.HttpRequest.sendGetRequest(HttpRequest.java:30)
+	at com.hipu.render.test.HttpRequestThread.run(HttpRequestThread.java:35)
+	at java.lang.Thread.run(Unknown Source)
+2013-03-26 17:12:27,132 ERROR com.hipu.render.service.RenderService:43 - 
+java.io.FileNotFoundException: http://localhost:8081/render/?url=http://sports.sohu.com/20120930/n354238441.shtml
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at com.hipu.render.test.HttpRequest.sendGetRequest(HttpRequest.java:30)
+	at com.hipu.render.test.HttpRequestThread.run(HttpRequestThread.java:35)
+	at java.lang.Thread.run(Unknown Source)
+2013-03-26 17:12:27,130 ERROR com.hipu.render.service.RenderService:43 - 
+java.io.FileNotFoundException: http://localhost:8081/render/?url=http://sports.sohu.com/20120930/n354238097.shtml
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at com.hipu.render.test.HttpRequest.sendGetRequest(HttpRequest.java:30)
+	at com.hipu.render.test.HttpRequestThread.run(HttpRequestThread.java:35)
+	at java.lang.Thread.run(Unknown Source)
+2013-03-26 17:12:27,132 ERROR com.hipu.render.service.RenderService:43 - 
+java.io.FileNotFoundException: http://localhost:8081/render/?url=http://sports.sohu.com/20120930/n354238079.shtml
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at com.hipu.render.test.HttpRequest.sendGetRequest(HttpRequest.java:30)
+	at com.hipu.render.test.HttpRequestThread.run(HttpRequestThread.java:35)
+	at java.lang.Thread.run(Unknown Source)
+2013-03-26 17:12:27,133 ERROR com.hipu.render.service.RenderService:43 - 
+java.io.FileNotFoundException: http://localhost:8081/render/?url=http://sports.sohu.com/20120930/n354237929.shtml
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at com.hipu.render.test.HttpRequest.sendGetRequest(HttpRequest.java:30)
+	at com.hipu.render.test.HttpRequestThread.run(HttpRequestThread.java:35)
+	at java.lang.Thread.run(Unknown Source)
+2013-03-26 17:12:27,133 ERROR com.hipu.render.service.RenderService:43 - 
+java.io.FileNotFoundException: http://localhost:8081/render/?url=http://sports.sohu.com/20120930/n354238029.shtml
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at com.hipu.render.test.HttpRequest.sendGetRequest(HttpRequest.java:30)
+	at com.hipu.render.test.HttpRequestThread.run(HttpRequestThread.java:35)
+	at java.lang.Thread.run(Unknown Source)
+2013-03-26 17:12:27,130 ERROR com.hipu.render.service.RenderService:43 - 
+java.io.FileNotFoundException: http://localhost:8081/render/?url=http://sports.sohu.com/20120930/n354238160.shtml
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at com.hipu.render.test.HttpRequest.sendGetRequest(HttpRequest.java:30)
+	at com.hipu.render.test.HttpRequestThread.run(HttpRequestThread.java:35)
+	at java.lang.Thread.run(Unknown Source)
+2013-03-26 17:12:27,130 ERROR com.hipu.render.service.RenderService:43 - 
+java.io.FileNotFoundException: http://localhost:8081/render/?url=http://sports.sohu.com/20120930/n354237995.shtml
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at com.hipu.render.test.HttpRequest.sendGetRequest(HttpRequest.java:30)
+	at com.hipu.render.test.HttpRequestThread.run(HttpRequestThread.java:35)
+	at java.lang.Thread.run(Unknown Source)
+2013-03-26 17:12:27,130 ERROR com.hipu.render.service.RenderService:43 - 
+java.io.FileNotFoundException: http://localhost:8081/render/?url=http://sports.sohu.com/20120930/n354237933.shtml
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at com.hipu.render.test.HttpRequest.sendGetRequest(HttpRequest.java:30)
+	at com.hipu.render.test.HttpRequestThread.run(HttpRequestThread.java:35)
+	at java.lang.Thread.run(Unknown Source)
+2013-03-26 17:12:27,130 ERROR com.hipu.render.service.RenderService:43 - 
+java.io.FileNotFoundException: http://localhost:8081/render/?url=http://sports.sohu.com/20120930/n354238175.shtml
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at com.hipu.render.test.HttpRequest.sendGetRequest(HttpRequest.java:30)
+	at com.hipu.render.test.HttpRequestThread.run(HttpRequestThread.java:35)
+	at java.lang.Thread.run(Unknown Source)
+2013-03-26 17:12:27,135 ERROR com.hipu.render.service.RenderService:43 - 
+java.io.FileNotFoundException: http://localhost:8081/render/?url=http://sports.sohu.com/20120930/n354237948.shtml
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at com.hipu.render.test.HttpRequest.sendGetRequest(HttpRequest.java:30)
+	at com.hipu.render.test.HttpRequestThread.run(HttpRequestThread.java:35)
+	at java.lang.Thread.run(Unknown Source)
+2013-03-26 17:12:27,133 ERROR com.hipu.render.service.RenderService:43 - 
+java.io.FileNotFoundException: http://localhost:8081/render/?url=http://sports.sohu.com/20120930/n354238121.shtml
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at com.hipu.render.test.HttpRequest.sendGetRequest(HttpRequest.java:30)
+	at com.hipu.render.test.HttpRequestThread.run(HttpRequestThread.java:35)
+	at java.lang.Thread.run(Unknown Source)
+2013-03-26 17:12:27,133 ERROR com.hipu.render.service.RenderService:43 - 
+java.io.FileNotFoundException: http://localhost:8081/render/?url=http://sports.sohu.com/20120930/n354238261.shtml
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at com.hipu.render.test.HttpRequest.sendGetRequest(HttpRequest.java:30)
+	at com.hipu.render.test.HttpRequestThread.run(HttpRequestThread.java:35)
+	at java.lang.Thread.run(Unknown Source)
+2013-03-26 17:16:07,066 ERROR com.hipu.render.entity.MainRender:132 - can not use cache dir.
+2013-03-26 17:21:22,858 ERROR com.hipu.render.service.RenderService:43 - 
+java.io.FileNotFoundException: http://localhost:8081/render/?url=http://sports.sohu.com/20120930/n354238177.shtml
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at com.hipu.render.test.HttpRequest.sendGetRequest(HttpRequest.java:30)
+	at com.hipu.render.test.HttpRequestThread.run(HttpRequestThread.java:35)
+	at java.lang.Thread.run(Unknown Source)
+2013-03-26 17:21:22,861 ERROR com.hipu.render.service.RenderService:43 - 
+java.io.FileNotFoundException: http://localhost:8081/render/?url=http://sports.sohu.com/20120930/n354238187.shtml
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at com.hipu.render.test.HttpRequest.sendGetRequest(HttpRequest.java:30)
+	at com.hipu.render.test.HttpRequestThread.run(HttpRequestThread.java:35)
+	at java.lang.Thread.run(Unknown Source)
+2013-03-26 17:21:22,861 ERROR com.hipu.render.service.RenderService:43 - 
+java.io.FileNotFoundException: http://localhost:8081/render/?url=http://sports.sohu.com/20120930/n354238081.shtml
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at com.hipu.render.test.HttpRequest.sendGetRequest(HttpRequest.java:30)
+	at com.hipu.render.test.HttpRequestThread.run(HttpRequestThread.java:35)
+	at java.lang.Thread.run(Unknown Source)
+2013-03-26 17:21:22,860 ERROR com.hipu.render.service.RenderService:43 - 
+java.io.FileNotFoundException: http://localhost:8081/render/?url=http://sports.sohu.com/20120930/n354238180.shtml
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at com.hipu.render.test.HttpRequest.sendGetRequest(HttpRequest.java:30)
+	at com.hipu.render.test.HttpRequestThread.run(HttpRequestThread.java:35)
+	at java.lang.Thread.run(Unknown Source)
+2013-03-26 17:21:22,864 ERROR com.hipu.render.service.RenderService:43 - 
+java.io.FileNotFoundException: http://localhost:8081/render/?url=http://sports.sohu.com/20120930/n354238094.shtml
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at com.hipu.render.test.HttpRequest.sendGetRequest(HttpRequest.java:30)
+	at com.hipu.render.test.HttpRequestThread.run(HttpRequestThread.java:35)
+	at java.lang.Thread.run(Unknown Source)
+2013-03-26 17:21:22,861 ERROR com.hipu.render.service.RenderService:43 - 
+java.io.FileNotFoundException: http://localhost:8081/render/?url=http://sports.sohu.com/20120930/n354238175.shtml
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at com.hipu.render.test.HttpRequest.sendGetRequest(HttpRequest.java:30)
+	at com.hipu.render.test.HttpRequestThread.run(HttpRequestThread.java:35)
+	at java.lang.Thread.run(Unknown Source)
+2013-03-26 17:21:22,865 ERROR com.hipu.render.service.RenderService:43 - 
+java.io.FileNotFoundException: http://localhost:8081/render/?url=http://sports.sohu.com/20120930/n354238441.shtml
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at com.hipu.render.test.HttpRequest.sendGetRequest(HttpRequest.java:30)
+	at com.hipu.render.test.HttpRequestThread.run(HttpRequestThread.java:35)
+	at java.lang.Thread.run(Unknown Source)
+2013-03-26 17:21:22,865 ERROR com.hipu.render.service.RenderService:43 - 
+java.io.FileNotFoundException: http://localhost:8081/render/?url=http://sports.sohu.com/20120930/n354238029.shtml
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at com.hipu.render.test.HttpRequest.sendGetRequest(HttpRequest.java:30)
+	at com.hipu.render.test.HttpRequestThread.run(HttpRequestThread.java:35)
+	at java.lang.Thread.run(Unknown Source)
+2013-03-26 17:21:22,865 ERROR com.hipu.render.service.RenderService:43 - 
+java.io.FileNotFoundException: http://localhost:8081/render/?url=http://sports.sohu.com/20120930/n354238079.shtml
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at com.hipu.render.test.HttpRequest.sendGetRequest(HttpRequest.java:30)
+	at com.hipu.render.test.HttpRequestThread.run(HttpRequestThread.java:35)
+	at java.lang.Thread.run(Unknown Source)
+2013-03-26 17:21:22,864 ERROR com.hipu.render.service.RenderService:43 - 
+java.io.FileNotFoundException: http://localhost:8081/render/?url=http://sports.sohu.com/20120930/n354238097.shtml
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at com.hipu.render.test.HttpRequest.sendGetRequest(HttpRequest.java:30)
+	at com.hipu.render.test.HttpRequestThread.run(HttpRequestThread.java:35)
+	at java.lang.Thread.run(Unknown Source)
+2013-03-26 17:21:22,866 ERROR com.hipu.render.service.RenderService:43 - 
+java.io.FileNotFoundException: http://localhost:8081/render/?url=http://sports.sohu.com/20120930/n354238189.shtml
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at com.hipu.render.test.HttpRequest.sendGetRequest(HttpRequest.java:30)
+	at com.hipu.render.test.HttpRequestThread.run(HttpRequestThread.java:35)
+	at java.lang.Thread.run(Unknown Source)
+2013-03-26 17:21:22,866 ERROR com.hipu.render.service.RenderService:43 - 
+java.io.FileNotFoundException: http://localhost:8081/render/?url=http://sports.sohu.com/20120930/n354238192.shtml
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at com.hipu.render.test.HttpRequest.sendGetRequest(HttpRequest.java:30)
+	at com.hipu.render.test.HttpRequestThread.run(HttpRequestThread.java:35)
+	at java.lang.Thread.run(Unknown Source)
+2013-03-26 17:21:22,865 ERROR com.hipu.render.service.RenderService:43 - 
+java.io.FileNotFoundException: http://localhost:8081/render/?url=http://sports.sohu.com/20120930/n354238121.shtml
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at com.hipu.render.test.HttpRequest.sendGetRequest(HttpRequest.java:30)
+	at com.hipu.render.test.HttpRequestThread.run(HttpRequestThread.java:35)
+	at java.lang.Thread.run(Unknown Source)
+2013-03-26 17:21:22,867 ERROR com.hipu.render.service.RenderService:43 - 
+java.io.FileNotFoundException: http://localhost:8081/render/?url=http://sports.sohu.com/20120930/n354238083.shtml
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at com.hipu.render.test.HttpRequest.sendGetRequest(HttpRequest.java:30)
+	at com.hipu.render.test.HttpRequestThread.run(HttpRequestThread.java:35)
+	at java.lang.Thread.run(Unknown Source)
+2013-03-26 17:21:22,867 ERROR com.hipu.render.service.RenderService:43 - 
+java.io.FileNotFoundException: http://localhost:8081/render/?url=http://sports.sohu.com/20120930/n354237948.shtml
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at com.hipu.render.test.HttpRequest.sendGetRequest(HttpRequest.java:30)
+	at com.hipu.render.test.HttpRequestThread.run(HttpRequestThread.java:35)
+	at java.lang.Thread.run(Unknown Source)
+2013-03-26 17:21:22,867 ERROR com.hipu.render.service.RenderService:43 - 
+java.io.FileNotFoundException: http://localhost:8081/render/?url=http://sports.sohu.com/20120930/n354237995.shtml
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at com.hipu.render.test.HttpRequest.sendGetRequest(HttpRequest.java:30)
+	at com.hipu.render.test.HttpRequestThread.run(HttpRequestThread.java:35)
+	at java.lang.Thread.run(Unknown Source)
+2013-03-26 17:21:22,866 ERROR com.hipu.render.service.RenderService:43 - 
+java.io.FileNotFoundException: http://localhost:8081/render/?url=http://sports.sohu.com/20120930/n354238182.shtml
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at com.hipu.render.test.HttpRequest.sendGetRequest(HttpRequest.java:30)
+	at com.hipu.render.test.HttpRequestThread.run(HttpRequestThread.java:35)
+	at java.lang.Thread.run(Unknown Source)
+2013-03-26 17:21:22,869 ERROR com.hipu.render.service.RenderService:43 - 
+java.io.FileNotFoundException: http://localhost:8081/render/?url=http://sports.sohu.com/20120930/n354237968.shtml
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at com.hipu.render.test.HttpRequest.sendGetRequest(HttpRequest.java:30)
+	at com.hipu.render.test.HttpRequestThread.run(HttpRequestThread.java:35)
+	at java.lang.Thread.run(Unknown Source)
+2013-03-26 17:21:22,869 ERROR com.hipu.render.service.RenderService:43 - 
+java.io.FileNotFoundException: http://localhost:8081/render/?url=http://sports.sohu.com/20120930/n354237929.shtml
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at com.hipu.render.test.HttpRequest.sendGetRequest(HttpRequest.java:30)
+	at com.hipu.render.test.HttpRequestThread.run(HttpRequestThread.java:35)
+	at java.lang.Thread.run(Unknown Source)
+2013-03-26 17:21:22,868 ERROR com.hipu.render.service.RenderService:43 - 
+java.io.FileNotFoundException: http://localhost:8081/render/?url=http://sports.sohu.com/20120930/n354237946.shtml
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at com.hipu.render.test.HttpRequest.sendGetRequest(HttpRequest.java:30)
+	at com.hipu.render.test.HttpRequestThread.run(HttpRequestThread.java:35)
+	at java.lang.Thread.run(Unknown Source)
+2013-03-26 17:21:22,868 ERROR com.hipu.render.service.RenderService:43 - 
+java.io.FileNotFoundException: http://localhost:8081/render/?url=http://sports.sohu.com/20120930/n354237940.shtml
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at com.hipu.render.test.HttpRequest.sendGetRequest(HttpRequest.java:30)
+	at com.hipu.render.test.HttpRequestThread.run(HttpRequestThread.java:35)
+	at java.lang.Thread.run(Unknown Source)
+2013-03-26 17:21:22,868 ERROR com.hipu.render.service.RenderService:43 - 
+java.io.FileNotFoundException: http://localhost:8081/render/?url=http://sports.sohu.com/20120930/n354238257.shtml
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at com.hipu.render.test.HttpRequest.sendGetRequest(HttpRequest.java:30)
+	at com.hipu.render.test.HttpRequestThread.run(HttpRequestThread.java:35)
+	at java.lang.Thread.run(Unknown Source)
+2013-03-26 17:21:22,868 ERROR com.hipu.render.service.RenderService:43 - 
+java.io.FileNotFoundException: http://localhost:8081/render/?url=http://sports.sohu.com/20120930/n354238261.shtml
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at com.hipu.render.test.HttpRequest.sendGetRequest(HttpRequest.java:30)
+	at com.hipu.render.test.HttpRequestThread.run(HttpRequestThread.java:35)
+	at java.lang.Thread.run(Unknown Source)
+2013-03-26 17:21:22,868 ERROR com.hipu.render.service.RenderService:43 - 
+java.io.FileNotFoundException: http://localhost:8081/render/?url=http://sports.sohu.com/20120930/n354238259.shtml
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at com.hipu.render.test.HttpRequest.sendGetRequest(HttpRequest.java:30)
+	at com.hipu.render.test.HttpRequestThread.run(HttpRequestThread.java:35)
+	at java.lang.Thread.run(Unknown Source)
+2013-03-26 17:21:22,868 ERROR com.hipu.render.service.RenderService:43 - 
+java.io.FileNotFoundException: http://localhost:8081/render/?url=http://sports.sohu.com/20120930/n354238173.shtml
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at com.hipu.render.test.HttpRequest.sendGetRequest(HttpRequest.java:30)
+	at com.hipu.render.test.HttpRequestThread.run(HttpRequestThread.java:35)
+	at java.lang.Thread.run(Unknown Source)
+2013-03-26 17:21:22,868 ERROR com.hipu.render.service.RenderService:43 - 
+java.io.FileNotFoundException: http://localhost:8081/render/?url=http://sports.sohu.com/20120930/n354238091.shtml
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at com.hipu.render.test.HttpRequest.sendGetRequest(HttpRequest.java:30)
+	at com.hipu.render.test.HttpRequestThread.run(HttpRequestThread.java:35)
+	at java.lang.Thread.run(Unknown Source)
+2013-03-26 17:21:22,867 ERROR com.hipu.render.service.RenderService:43 - 
+java.io.FileNotFoundException: http://localhost:8081/render/?url=http://sports.sohu.com/20120930/n354238089.shtml
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at com.hipu.render.test.HttpRequest.sendGetRequest(HttpRequest.java:30)
+	at com.hipu.render.test.HttpRequestThread.run(HttpRequestThread.java:35)
+	at java.lang.Thread.run(Unknown Source)
+2013-03-26 17:21:22,867 ERROR com.hipu.render.service.RenderService:43 - 
+java.io.FileNotFoundException: http://localhost:8081/render/?url=http://sports.sohu.com/20120930/n354238160.shtml
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at com.hipu.render.test.HttpRequest.sendGetRequest(HttpRequest.java:30)
+	at com.hipu.render.test.HttpRequestThread.run(HttpRequestThread.java:35)
+	at java.lang.Thread.run(Unknown Source)
+2013-03-26 17:21:22,867 ERROR com.hipu.render.service.RenderService:43 - 
+java.io.FileNotFoundException: http://localhost:8081/render/?url=http://sports.sohu.com/20120930/n354237933.shtml
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at com.hipu.render.test.HttpRequest.sendGetRequest(HttpRequest.java:30)
+	at com.hipu.render.test.HttpRequestThread.run(HttpRequestThread.java:35)
+	at java.lang.Thread.run(Unknown Source)
+2013-03-26 17:21:22,873 ERROR com.hipu.render.service.RenderService:43 - 
+java.io.FileNotFoundException: http://localhost:8081/render/?url=http://sports.sohu.com/20120930/n354238086.shtml
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at com.hipu.render.test.HttpRequest.sendGetRequest(HttpRequest.java:30)
+	at com.hipu.render.test.HttpRequestThread.run(HttpRequestThread.java:35)
+	at java.lang.Thread.run(Unknown Source)
+2013-03-26 17:24:30,042 ERROR com.hipu.render.service.RenderService:43 - 
+java.io.FileNotFoundException: http://localhost:8081/service/render?url=http://sports.sohu.com/20120930/n354237995.shtml
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at com.hipu.render.test.HttpRequest.sendGetRequest(HttpRequest.java:30)
+	at com.hipu.render.test.HttpRequestThread.run(HttpRequestThread.java:35)
+	at java.lang.Thread.run(Unknown Source)
+2013-03-26 17:24:30,047 ERROR com.hipu.render.service.RenderService:43 - 
+java.io.FileNotFoundException: http://localhost:8081/service/render?url=http://sports.sohu.com/20120930/n354238079.shtml
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at com.hipu.render.test.HttpRequest.sendGetRequest(HttpRequest.java:30)
+	at com.hipu.render.test.HttpRequestThread.run(HttpRequestThread.java:35)
+	at java.lang.Thread.run(Unknown Source)
+2013-03-26 17:24:30,046 ERROR com.hipu.render.service.RenderService:43 - 
+java.io.FileNotFoundException: http://localhost:8081/service/render?url=http://sports.sohu.com/20120930/n354238173.shtml
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at com.hipu.render.test.HttpRequest.sendGetRequest(HttpRequest.java:30)
+	at com.hipu.render.test.HttpRequestThread.run(HttpRequestThread.java:35)
+	at java.lang.Thread.run(Unknown Source)
+2013-03-26 17:24:30,046 ERROR com.hipu.render.service.RenderService:43 - 
+java.io.FileNotFoundException: http://localhost:8081/service/render?url=http://sports.sohu.com/20120930/n354238441.shtml
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at com.hipu.render.test.HttpRequest.sendGetRequest(HttpRequest.java:30)
+	at com.hipu.render.test.HttpRequestThread.run(HttpRequestThread.java:35)
+	at java.lang.Thread.run(Unknown Source)
+2013-03-26 17:24:30,046 ERROR com.hipu.render.service.RenderService:43 - 
+java.io.FileNotFoundException: http://localhost:8081/service/render?url=http://sports.sohu.com/20120930/n354238094.shtml
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at com.hipu.render.test.HttpRequest.sendGetRequest(HttpRequest.java:30)
+	at com.hipu.render.test.HttpRequestThread.run(HttpRequestThread.java:35)
+	at java.lang.Thread.run(Unknown Source)
+2013-03-26 17:24:30,045 ERROR com.hipu.render.service.RenderService:43 - 
+java.io.FileNotFoundException: http://localhost:8081/service/render?url=http://sports.sohu.com/20120930/n354238187.shtml
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at com.hipu.render.test.HttpRequest.sendGetRequest(HttpRequest.java:30)
+	at com.hipu.render.test.HttpRequestThread.run(HttpRequestThread.java:35)
+	at java.lang.Thread.run(Unknown Source)
+2013-03-26 17:24:30,042 ERROR com.hipu.render.service.RenderService:43 - 
+java.io.FileNotFoundException: http://localhost:8081/service/render?url=http://sports.sohu.com/20120930/n354238259.shtml
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at com.hipu.render.test.HttpRequest.sendGetRequest(HttpRequest.java:30)
+	at com.hipu.render.test.HttpRequestThread.run(HttpRequestThread.java:35)
+	at java.lang.Thread.run(Unknown Source)
+2013-03-26 17:24:30,044 ERROR com.hipu.render.service.RenderService:43 - 
+java.io.FileNotFoundException: http://localhost:8081/service/render?url=http://sports.sohu.com/20120930/n354238091.shtml
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at com.hipu.render.test.HttpRequest.sendGetRequest(HttpRequest.java:30)
+	at com.hipu.render.test.HttpRequestThread.run(HttpRequestThread.java:35)
+	at java.lang.Thread.run(Unknown Source)
+2013-03-26 17:24:30,043 ERROR com.hipu.render.service.RenderService:43 - 
+java.io.FileNotFoundException: http://localhost:8081/service/render?url=http://sports.sohu.com/20120930/n354237968.shtml
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at com.hipu.render.test.HttpRequest.sendGetRequest(HttpRequest.java:30)
+	at com.hipu.render.test.HttpRequestThread.run(HttpRequestThread.java:35)
+	at java.lang.Thread.run(Unknown Source)
+2013-03-26 17:24:30,043 ERROR com.hipu.render.service.RenderService:43 - 
+java.io.FileNotFoundException: http://localhost:8081/service/render?url=http://sports.sohu.com/20120930/n354238175.shtml
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at com.hipu.render.test.HttpRequest.sendGetRequest(HttpRequest.java:30)
+	at com.hipu.render.test.HttpRequestThread.run(HttpRequestThread.java:35)
+	at java.lang.Thread.run(Unknown Source)
+2013-03-26 17:24:30,054 ERROR com.hipu.render.service.RenderService:43 - 
+java.io.FileNotFoundException: http://localhost:8081/service/render?url=http://sports.sohu.com/20120930/n354237933.shtml
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at com.hipu.render.test.HttpRequest.sendGetRequest(HttpRequest.java:30)
+	at com.hipu.render.test.HttpRequestThread.run(HttpRequestThread.java:35)
+	at java.lang.Thread.run(Unknown Source)
+2013-03-26 17:24:30,054 ERROR com.hipu.render.service.RenderService:43 - 
+java.io.FileNotFoundException: http://localhost:8081/service/render?url=http://sports.sohu.com/20120930/n354238121.shtml
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at com.hipu.render.test.HttpRequest.sendGetRequest(HttpRequest.java:30)
+	at com.hipu.render.test.HttpRequestThread.run(HttpRequestThread.java:35)
+	at java.lang.Thread.run(Unknown Source)
+2013-03-26 17:24:30,055 ERROR com.hipu.render.service.RenderService:43 - 
+java.io.FileNotFoundException: http://localhost:8081/service/render?url=http://sports.sohu.com/20120930/n354238160.shtml
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at com.hipu.render.test.HttpRequest.sendGetRequest(HttpRequest.java:30)
+	at com.hipu.render.test.HttpRequestThread.run(HttpRequestThread.java:35)
+	at java.lang.Thread.run(Unknown Source)
+2013-03-26 17:24:30,056 ERROR com.hipu.render.service.RenderService:43 - 
+java.io.FileNotFoundException: http://localhost:8081/service/render?url=http://sports.sohu.com/20120930/n354238192.shtml
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at com.hipu.render.test.HttpRequest.sendGetRequest(HttpRequest.java:30)
+	at com.hipu.render.test.HttpRequestThread.run(HttpRequestThread.java:35)
+	at java.lang.Thread.run(Unknown Source)
+2013-03-26 17:24:30,056 ERROR com.hipu.render.service.RenderService:43 - 
+java.io.FileNotFoundException: http://localhost:8081/service/render?url=http://sports.sohu.com/20120930/n354238081.shtml
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at com.hipu.render.test.HttpRequest.sendGetRequest(HttpRequest.java:30)
+	at com.hipu.render.test.HttpRequestThread.run(HttpRequestThread.java:35)
+	at java.lang.Thread.run(Unknown Source)
+2013-03-26 17:24:30,056 ERROR com.hipu.render.service.RenderService:43 - 
+java.io.FileNotFoundException: http://localhost:8081/service/render?url=http://sports.sohu.com/20120930/n354238097.shtml
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at com.hipu.render.test.HttpRequest.sendGetRequest(HttpRequest.java:30)
+	at com.hipu.render.test.HttpRequestThread.run(HttpRequestThread.java:35)
+	at java.lang.Thread.run(Unknown Source)
+2013-03-26 17:24:30,042 ERROR com.hipu.render.service.RenderService:43 - 
+java.io.FileNotFoundException: http://localhost:8081/service/render?url=http://sports.sohu.com/20120930/n354238189.shtml
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at com.hipu.render.test.HttpRequest.sendGetRequest(HttpRequest.java:30)
+	at com.hipu.render.test.HttpRequestThread.run(HttpRequestThread.java:35)
+	at java.lang.Thread.run(Unknown Source)
+2013-03-26 17:24:30,058 ERROR com.hipu.render.service.RenderService:43 - 
+java.io.FileNotFoundException: http://localhost:8081/service/render?url=http://sports.sohu.com/20120930/n354238182.shtml
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at com.hipu.render.test.HttpRequest.sendGetRequest(HttpRequest.java:30)
+	at com.hipu.render.test.HttpRequestThread.run(HttpRequestThread.java:35)
+	at java.lang.Thread.run(Unknown Source)
+2013-03-26 17:24:30,058 ERROR com.hipu.render.service.RenderService:43 - 
+java.io.FileNotFoundException: http://localhost:8081/service/render?url=http://sports.sohu.com/20120930/n354238029.shtml
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at com.hipu.render.test.HttpRequest.sendGetRequest(HttpRequest.java:30)
+	at com.hipu.render.test.HttpRequestThread.run(HttpRequestThread.java:35)
+	at java.lang.Thread.run(Unknown Source)
+2013-03-26 17:24:30,058 ERROR com.hipu.render.service.RenderService:43 - 
+java.io.FileNotFoundException: http://localhost:8081/service/render?url=http://sports.sohu.com/20120930/n354238086.shtml
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at com.hipu.render.test.HttpRequest.sendGetRequest(HttpRequest.java:30)
+	at com.hipu.render.test.HttpRequestThread.run(HttpRequestThread.java:35)
+	at java.lang.Thread.run(Unknown Source)
+2013-03-26 17:24:30,058 ERROR com.hipu.render.service.RenderService:43 - 
+java.io.FileNotFoundException: http://localhost:8081/service/render?url=http://sports.sohu.com/20120930/n354238089.shtml
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at com.hipu.render.test.HttpRequest.sendGetRequest(HttpRequest.java:30)
+	at com.hipu.render.test.HttpRequestThread.run(HttpRequestThread.java:35)
+	at java.lang.Thread.run(Unknown Source)
+2013-03-26 17:24:30,057 ERROR com.hipu.render.service.RenderService:43 - 
+java.io.FileNotFoundException: http://localhost:8081/service/render?url=http://sports.sohu.com/20120930/n354237946.shtml
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at com.hipu.render.test.HttpRequest.sendGetRequest(HttpRequest.java:30)
+	at com.hipu.render.test.HttpRequestThread.run(HttpRequestThread.java:35)
+	at java.lang.Thread.run(Unknown Source)
+2013-03-26 17:24:30,057 ERROR com.hipu.render.service.RenderService:43 - 
+java.io.FileNotFoundException: http://localhost:8081/service/render?url=http://sports.sohu.com/20120930/n354237940.shtml
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at com.hipu.render.test.HttpRequest.sendGetRequest(HttpRequest.java:30)
+	at com.hipu.render.test.HttpRequestThread.run(HttpRequestThread.java:35)
+	at java.lang.Thread.run(Unknown Source)
+2013-03-26 17:24:30,057 ERROR com.hipu.render.service.RenderService:43 - 
+java.io.FileNotFoundException: http://localhost:8081/service/render?url=http://sports.sohu.com/20120930/n354238261.shtml
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at com.hipu.render.test.HttpRequest.sendGetRequest(HttpRequest.java:30)
+	at com.hipu.render.test.HttpRequestThread.run(HttpRequestThread.java:35)
+	at java.lang.Thread.run(Unknown Source)
+2013-03-26 17:24:30,057 ERROR com.hipu.render.service.RenderService:43 - 
+java.io.FileNotFoundException: http://localhost:8081/service/render?url=http://sports.sohu.com/20120930/n354237929.shtml
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at com.hipu.render.test.HttpRequest.sendGetRequest(HttpRequest.java:30)
+	at com.hipu.render.test.HttpRequestThread.run(HttpRequestThread.java:35)
+	at java.lang.Thread.run(Unknown Source)
+2013-03-26 17:24:30,054 ERROR com.hipu.render.service.RenderService:43 - 
+java.io.FileNotFoundException: http://localhost:8081/service/render?url=http://sports.sohu.com/20120930/n354238257.shtml
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at com.hipu.render.test.HttpRequest.sendGetRequest(HttpRequest.java:30)
+	at com.hipu.render.test.HttpRequestThread.run(HttpRequestThread.java:35)
+	at java.lang.Thread.run(Unknown Source)
+2013-03-26 17:24:30,050 ERROR com.hipu.render.service.RenderService:43 - 
+java.io.FileNotFoundException: http://localhost:8081/service/render?url=http://sports.sohu.com/20120930/n354238180.shtml
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at com.hipu.render.test.HttpRequest.sendGetRequest(HttpRequest.java:30)
+	at com.hipu.render.test.HttpRequestThread.run(HttpRequestThread.java:35)
+	at java.lang.Thread.run(Unknown Source)
+2013-03-26 17:24:30,049 ERROR com.hipu.render.service.RenderService:43 - 
+java.io.FileNotFoundException: http://localhost:8081/service/render?url=http://sports.sohu.com/20120930/n354237948.shtml
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at com.hipu.render.test.HttpRequest.sendGetRequest(HttpRequest.java:30)
+	at com.hipu.render.test.HttpRequestThread.run(HttpRequestThread.java:35)
+	at java.lang.Thread.run(Unknown Source)
+2013-03-26 17:24:30,048 ERROR com.hipu.render.service.RenderService:43 - 
+java.io.FileNotFoundException: http://localhost:8081/service/render?url=http://sports.sohu.com/20120930/n354238177.shtml
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at com.hipu.render.test.HttpRequest.sendGetRequest(HttpRequest.java:30)
+	at com.hipu.render.test.HttpRequestThread.run(HttpRequestThread.java:35)
+	at java.lang.Thread.run(Unknown Source)
+2013-03-26 17:24:30,048 ERROR com.hipu.render.service.RenderService:43 - 
+java.io.FileNotFoundException: http://localhost:8081/service/render?url=http://sports.sohu.com/20120930/n354238083.shtml
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at com.hipu.render.test.HttpRequest.sendGetRequest(HttpRequest.java:30)
+	at com.hipu.render.test.HttpRequestThread.run(HttpRequestThread.java:35)
+	at java.lang.Thread.run(Unknown Source)
+2013-03-26 17:36:56,940 ERROR com.hipu.render.entity.MainRender:132 - can not use cache dir.
